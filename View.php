@@ -6,7 +6,7 @@
  * Time: 14:44
  */
 
-namespace common;
+namespace anatolyrugalev\requirejs;
 
 
 use yii\helpers\Html;

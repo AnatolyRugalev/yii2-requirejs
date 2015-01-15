@@ -1,0 +1,10 @@
+{
+  "name": "anatolyrugalev/yii2-requirejs",
+  "keywords": ["requirejs", "assets", "view"],
+  "description": "Yii2 View developed for javascript rendering via require.js",
+  "type": "extension",
+  "license": "GPLv3",
+  "require": {
+    "yiisoft/yii2": "*"
+  }
+}
