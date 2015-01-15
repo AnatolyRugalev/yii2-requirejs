@@ -11,7 +11,6 @@ namespace anatolyrugalev\requirejs;
 
 use yii\helpers\Html;
 use yii\helpers\Url;
-use yii\web\JsExpression;
 
 class View extends \yii\web\View {
 
