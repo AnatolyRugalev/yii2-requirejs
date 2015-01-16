@@ -6,5 +6,8 @@
   "license": "GPLv3",
   "require": {
     "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {"anatolyrugalev\\requirejs\\": ""}
   }
 }
